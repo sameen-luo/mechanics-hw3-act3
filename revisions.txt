@@ -1,0 +1,65 @@
+commit d87eb47592a672ddcdac6baac6b006c0aafc8ad5
+Author: Sameen  Luo <xxl2398@cs.rit.edu>
+Date:   Thu Sep 21 14:39:37 2017 -0400
+
+    I fixed it yay
+
+commit 8d9a0c794f7843fbdf5217ad11f38d43a74f0c2b
+Author: Sameen  Luo <xxl2398@cs.rit.edu>
+Date:   Thu Sep 21 14:30:01 2017 -0400
+
+    fixed duplicates in generation 0
+
+commit 8b9fe8f9c6f2958e1e24148b0b23a5f7387657d9
+Author: Sameen  Luo <xxl2398@cs.rit.edu>
+Date:   Wed Sep 20 23:42:40 2017 -0400
+
+    fixed to match 0-99 generation output
+
+commit 635a0551e85132a6e5776053666f1eb6dba5f15c
+Author: Sameen  Luo <xxl2398@cs.rit.edu>
+Date:   Wed Sep 20 23:39:39 2017 -0400
+
+    Added documentation
+
+commit 31d6835c910545bef47025f54e80762d12e9d3f1
+Author: Sameen  Luo <xxl2398@cs.rit.edu>
+Date:   Wed Sep 20 23:36:43 2017 -0400
+
+    finished refactoring code
+
+commit c93790809833a6ae21d8397823a6f08052a32e96
+Author: Sameen  Luo <xxl2398@cs.rit.edu>
+Date:   Wed Sep 20 19:05:30 2017 -0400
+
+    fixed magic number
+
+commit 15607e918d22b56b7a32a49702420ede3f7422d6
+Author: Sameen  Luo <xxl2398@cs.rit.edu>
+Date:   Wed Sep 20 18:46:53 2017 -0400
+
+    fixed format
+
+commit 7f08a4400fb72d40e6815c105fe0e24825f2d243
+Author: Sameen  Luo <xxl2398@cs.rit.edu>
+Date:   Wed Sep 20 17:14:38 2017 -0400
+
+    cleaned up warnings
+
+commit 1097fb7f335636ea447f5de8ebd4097eb90979fc
+Author: Sameen  Luo <xxl2398@cs.rit.edu>
+Date:   Tue Sep 19 22:15:01 2017 -0400
+
+    completed act1 phase2 debugging.
+
+commit a78c7f5e86e7ecca6c4eeaf44b36572107a8d195
+Author: Sameen  Luo <xxl2398@cs.rit.edu>
+Date:   Tue Sep 19 20:02:03 2017 -0400
+
+    Phase1 debug complete
+
+commit 72ef445da5942b69b52c8308cae56355670daa38
+Author: Sameen  Luo <xxl2398@cs.rit.edu>
+Date:   Mon Sep 18 22:31:16 2017 -0400
+
+    Got hw files.
